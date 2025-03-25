@@ -6,7 +6,7 @@ import java.util.Scanner;
         Scanner scanner = new Scanner(System.in);
 
         // Ask the user for the radius of the circle
-        System.out.print("Enter the radius of the circle: ");
+        System.out.print("Enterr the radius of the circle: ");
         double radius = scanner.nextDouble();
 
         // Calculate the area of the circle
